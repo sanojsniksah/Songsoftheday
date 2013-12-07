@@ -1,6 +1,6 @@
 = Songsoftheday
 
-Description goes here.
+Downloads the songs of the day podcast archive from KEXP.
 
 == Contributing to Songsoftheday
  
