@@ -1,7 +1,7 @@
 class Songsoftheday
 
   def sod
-	puts "Run the executable ! downloadsongsoftheday.rb "
+	puts "Run the executable ! downloadsongsoftheday "
   end
 
   def theyear2000called

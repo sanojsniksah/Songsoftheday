@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "Songsoftheday"
-  s.version = "0.0.4"
+  s.version = "0.0.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jonas Haskins"]
@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/Songsoftheday.rb",
-    "bin/downloadsongsoftheday.rb",
+    "bin/downloadsongsoftheday",
     "test/helper.rb",
     "test/test_Songsoftheday.rb"
   ]
